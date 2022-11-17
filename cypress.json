@@ -1,0 +1,5 @@
+{
+    "chromeWebSecurity": false,
+    "hideXHR": true,
+    "baseUrl":"https://www.directferries.co.uk/"
+}
